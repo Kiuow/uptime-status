@@ -19,11 +19,11 @@ window.Config = {
   Navi: [
     {
       text: 'Home',
-      url: 'https://www.simpfun.top/'
+      url: 'https://www.simpfun.eu.org/'
     },
     {
       text: 'Blog',
-      url: 'https://blog.simpfun.top/'
+      url: 'https://blog.simpfun.eu.org/'
     },
   ],
 };
